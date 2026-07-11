@@ -114,7 +114,7 @@ screenshots/flask-running.png
 Then add:
 
 ```markdown
-![Flask App](screenshots/flask-running.png)
+
 ```
 
 ---

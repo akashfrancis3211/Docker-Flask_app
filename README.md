@@ -91,33 +91,24 @@ docker ps
 
 Home Page
 
-```text
-http://<EC2-PUBLIC-IP>:5000/
+```
+http://54.221.35.212:5000:5000/
 ```
 
 Health Check
 
 ```text
-http://<EC2-PUBLIC-IP>:5000/health
+http://54.221.35.212:5000/health
 ```
 
----
 
 ## Screenshot
 
-Place your browser screenshot inside:
 
-```text
-screenshots/flask-running.png
-```
 
-Then add:
 
-```markdown
 
-```
 
----
 
 ## What I Learned
 
